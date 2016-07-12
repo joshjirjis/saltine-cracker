@@ -24,7 +24,9 @@ class ViewController: UIViewController, MKMapViewDelegate {
         // Dispose of any resources that can be recreated.
     }
     
-    var penis = small
+    var penis = "smallllllllleeeessssstttt Ever"
+    var fuck = "fuck"
+    
 
 
 }
